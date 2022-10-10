@@ -9,6 +9,7 @@ HOW TO ACCESS?
     user-stw pin-3333
     user-ss pin-4444
 
-2)After you logged in u can either transfer or request money, 
+2)After you logged in u can either transfer or request money,
 which would be shown in the app UI.
 
+3)It has a fake log in just for practice!
