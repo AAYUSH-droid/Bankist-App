@@ -13,3 +13,5 @@ HOW TO ACCESS?
 which would be shown in the app UI.
 
 3)It has a fake log in just for practice!
+
+4) It is made with vanilla javacsript.
